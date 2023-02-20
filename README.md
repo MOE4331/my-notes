@@ -15,7 +15,9 @@ difference between ***GUI***(graphical user interface) versus ***CLI***(command 
 - The VCS hel us to mange your project especially if you have a team
 
 ------------------------
-***We have learned about git vs github***
+*We have learned about git vs github*
+
+----------------------------------------------
 
 -the Advantage from vsc is :-
 1. backup and Recovery
