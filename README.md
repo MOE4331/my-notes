@@ -3,7 +3,13 @@
 Hello, My name is Muhammad I have a bachelor degree in computer science .
 ===============
 
-**-today lecture we have learned abou GitHub.**
+**-today lecture we have learned about :-**
+======================================
+-GitHub
+-Basic Terminal
+-vcs
+-Markdown languge
+-SSH key
 
 
 difference between ***GUI***(graphical user interface) versus ***CLI***(command line interface)  ***basic terminal***
